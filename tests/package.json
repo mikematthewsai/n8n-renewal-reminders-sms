@@ -1,0 +1,8 @@
+{
+  "name": "renewal-reminder-tests",
+  "private": true,
+  "description": "Checks for the renewal reminders workflow. Run: npm install && node renewals.test.js",
+  "dependencies": {
+    "luxon": "^3.5.0"
+  }
+}
